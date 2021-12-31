@@ -19,7 +19,7 @@ Namely, through the use of MIDI data formats. MIDI allows music data to be easil
 However, MIDI seems to give better results. That being said, I belief there are tradeoffs involved, such as the lack of variety with using MIDI format to process music data)
 
 This mini project is a result of just some minor tweaks to the code and guides i dicovered online. 
-IT IS NOT MEANT TO BE MY WORK, BUT RATHER AN ExPLORATION INTO THIS FIELD, AND AN EXPERIMENTATION INTO POSSIBLE AREAS OF IMPROVEMENT. 
+IT IS NOT MEANT TO BE MY WORK, BUT RATHER AN EXPLORATION INTO THIS FIELD, AND AN EXPERIMENTATION INTO POSSIBLE AREAS OF IMPROVEMENT. 
 
 Largely inspired via:
 https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5
