@@ -9,7 +9,7 @@ My initial thought process was that it was simply a matter of passing in music d
 
 ### However, one problem i immediatedly identified was how to convert(encode) music data and pass it through a neural network?
 
-After all, in cases of NLP it usually involves one hot encoding, and for Computer Vision related problems, we can siply use numpy/pytorch/vectors(RGB).
+After all, in cases of NLP it usually involves one hot encoding, and for Computer Vision related problems, we can simply use numpy/pytorch/vectors(RGB).
 So, how can i do somethong similar for audio data?
 
 Upon conuducting some research into this problem, I chanced upon multiple articles that had already tackled this problem. 
